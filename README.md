@@ -1,5 +1,6 @@
-# QuantumultX-Rewrite
-QuantumultX重写
+# QuantumultX重写
+#### 经暴力转换做成（包括此份readme） 难免有语法错误 无法测试 因为我没有quantumultX
+
 </details>
 
 <details>
