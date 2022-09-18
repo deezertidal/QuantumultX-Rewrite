@@ -6,8 +6,8 @@
    <summary>:key:重写</summary>    
 
 
-|:octocat:重写|:link:链接|:pushpin:操作说明|
-|--|--|--|
+|:octocat:重写|:link:链接|
+|--|--|
 |:white_check_mark:百度云加速|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/BaiduCloud.conf)|
 |:white_check_mark:扫描全能王|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/CamScanner.conf)|
 |:white_check_mark:Emby|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/Emby.conf)|
