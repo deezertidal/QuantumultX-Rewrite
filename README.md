@@ -155,6 +155,8 @@
 |:white_check_mark:熊掌记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/xzj.conf)|
 |:white_check_mark:Notboring解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/notboring.conf)|
 |:white_check_mark:如期|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/rq.conf)|
+|:white_check_mark:CEO周课|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ceo.conf)|
+
 </details>
 
 
