@@ -158,6 +158,7 @@
 |:white_check_mark:CEO周课|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ceo.conf)|
 |:white_check_mark:Fileball|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/fileball.conf)|
 |:white_check_mark:1blocker|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/1blocker.conf)|
+|:white_check_mark:AI换脸秀|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ai.conf)|
 
 </details>
 
