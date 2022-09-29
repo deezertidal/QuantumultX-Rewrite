@@ -164,7 +164,7 @@
 |:white_check_mark:Faintv|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/faintv.conf)|
 |:white_check_mark:微信听书|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/wxts.conf)|
 |:white_check_mark:人民日报去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/rmrb.conf)|
-
+|:white_check_mark:爱企查|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/aqc.conf)|
 </details>
 
 
