@@ -303,4 +303,4 @@
 * [@lowking](https://github.com/lowking/Scripts)
  </details>
 
-![Image text](https://raw.githubusercontent.com/deezertidal/private/main/icons/qx.png)
+![Image text](https://raw.githubusercontent.com/deezertidal/private/main/icons/qx.png)![Image text](https://raw.githubusercontent.com/deezertidal/freevpn/main/img/award.png)
