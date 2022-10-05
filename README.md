@@ -168,8 +168,8 @@
 |:white_check_mark:微信读书免费卡解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wxds.conf)|
 |:white_check_mark:chic|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/chic.conf)|
 |:white_check_mark:有道词典|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ydcd.conf)|
-|:white_check_mark:ylttx|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ylttx.conf)|
-
+|:white_check_mark:一路听天下|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/ylttx.conf)|
+|:white_check_mark:网速测试大师|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/wscsds.conf)|
 
 </details>
 
