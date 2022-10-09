@@ -172,7 +172,7 @@
 |:white_check_mark:网速测试大师|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/wscsds.conf)|
 |:white_check_mark:网速管家|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/wsgj.conf)|
 |:white_check_mark:EFEKT美易|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/efekt.conf)|
-
+|:white_check_mark:WPS稻壳会员|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/doc.conf)|
 </details>
 
 
