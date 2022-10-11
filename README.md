@@ -173,6 +173,8 @@
 |:white_check_mark:网速管家|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/wsgj.conf)|
 |:white_check_mark:EFEKT美易|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/efekt.conf)|
 |:white_check_mark:WPS稻壳会员|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/doc.conf)|
+|:white_check_mark:米克锁屏|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/mksp.conf)|
+
 </details>
 
 
