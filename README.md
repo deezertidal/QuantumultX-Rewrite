@@ -16,7 +16,7 @@
 |:white_check_mark:历史价格|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/Price.conf)|
 |:white_check_mark:WPS会员解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/WPS.conf)|
 |:white_check_mark:Nicegram会员解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/nicegram.conf)|
-|:white_check_mark:财新会员解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/caixin.conf)|
+❌财新会员解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/caixin.conf)|
 |:white_check_mark:spotify会员解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/SpotifyPremium.conf)|
 |:white_check_mark:SoundCloud Go+|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/soundcloud.conf)|
 |:white_check_mark:代理链路检测|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/NodeLinkCheck.conf)|
