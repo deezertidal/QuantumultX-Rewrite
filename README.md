@@ -174,6 +174,9 @@
 |:white_check_mark:EFEKT美易|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/efekt.conf)|
 |:white_check_mark:WPS稻壳会员|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/doc.conf)|
 |:white_check_mark:米克锁屏|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/mksp.conf)|
+|:white_check_mark:阿布睡前故事|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/absqgs.conf)|
+|:white_check_mark:collart|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/collart.conf)|
+|:white_check_mark:博商小麦|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/bsxm.conf)|
 
 </details>
 
