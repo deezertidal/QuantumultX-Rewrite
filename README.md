@@ -178,6 +178,8 @@
 |:white_check_mark:collart|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/collart.conf)|
 |:white_check_mark:博商小麦|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/bsxm.conf)|
 |:white_check_mark:MEMRISE|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/memrise.conf)|
+|:white_check_mark:堆糖|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/duitang.conf)|
+
 
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
