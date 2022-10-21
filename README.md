@@ -185,7 +185,7 @@
 |:white_check_mark:长相思|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/cxs.conf)|
 |:white_check_mark:电子请柬制作|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/dzqj.conf)|
 |:white_check_mark:黄油相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hyxj.conf)|
-
+|:white_check_mark:Lingokids|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/lingokids.conf)|
 
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
