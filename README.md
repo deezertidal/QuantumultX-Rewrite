@@ -188,9 +188,9 @@
 |:white_check_mark:Lingokids|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/lingokids.conf)|
 |:white_check_mark:百度文库阅读解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/bdwk.conf)|
 |:white_check_mark:Craft|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/craft.conf)|
-
-
-
+|:white_check_mark:Panda小组件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/panda.conf)|
+|:white_check_mark:Keep|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/keep.conf)|
+|:white_check_mark:Documents|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/documents.conf)|
 
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
