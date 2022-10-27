@@ -193,6 +193,9 @@
 |:white_check_mark:Documents|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/documents.conf)|
 |:white_check_mark:Planny|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/plany.conf)|
 |:white_check_mark:Ego Reader|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ego.conf)|
+|:white_check_mark:极速扫描仪|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/jssmy.conf)|
+
+
 
 
 
