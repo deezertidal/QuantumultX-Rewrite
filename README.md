@@ -195,7 +195,7 @@
 |:white_check_mark:Ego Reader|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ego.conf)|
 |:white_check_mark:极速扫描仪|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/jssmy.conf)|
 |:white_check_mark:指尖笔记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/zjbj.conf)|
-
+|:white_check_mark:钱迹|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/qj.conf)|
 
 
 
