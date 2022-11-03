@@ -197,7 +197,7 @@
 |:white_check_mark:指尖笔记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/zjbj.conf)|
 |:white_check_mark:钱迹|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/qj.conf)|
 |:white_check_mark:Agenda|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/agenda.conf)|
-
+|:white_check_mark:多重搜索|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/multisearch.conf)|
 
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
