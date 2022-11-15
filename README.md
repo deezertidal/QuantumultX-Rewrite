@@ -206,7 +206,7 @@
 |:white_check_mark:手机扫描仪|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/sjsmy.conf)|
 |:white_check_mark:Sorted|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/sorted.conf)|
 |:white_check_mark:尽简衣橱|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/jjyc.conf)|
-
+|:white_check_mark:看理想|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/klx.conf)|
 
 
 
