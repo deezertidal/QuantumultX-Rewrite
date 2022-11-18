@@ -210,6 +210,11 @@
 |:white_check_mark:目标地图|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/mbdt.conf)|
 |:white_check_mark:拼图酱|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ptj.conf)|
 |:white_check_mark:向日葵阅读|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/xrk.conf)|
+|:white_check_mark:卡片日记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/kprj.conf)|
+
+
+
+
 
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
