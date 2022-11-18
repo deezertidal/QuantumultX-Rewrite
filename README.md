@@ -211,7 +211,8 @@
 |:white_check_mark:拼图酱|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ptj.conf)|
 |:white_check_mark:向日葵阅读|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/xrk.conf)|
 |:white_check_mark:卡片日记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/kprj.conf)|
-
+|:white_check_mark:莉景天气|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ljtq.conf)|
+|:white_check_mark:Motivation|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/motivation.conf)|
 
 
 
