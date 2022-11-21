@@ -216,8 +216,8 @@
 |:white_check_mark:PDF Viewer|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/pdfviewer.conf)|
 |:white_check_mark:Percento|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/percento.conf)|
 |:white_check_mark:Pixelance|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/pixelance.conf)|
-
-
+|:white_check_mark:Retake|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/retake.conf)|
+|:white_check_mark:色采|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/sc.conf)|
 
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
