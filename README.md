@@ -220,7 +220,7 @@
 |:white_check_mark:色采|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/sc.conf)|
 |:white_check_mark:闪萌表情|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/smbq.conf)|
 |:white_check_mark:音频剪辑|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ypjj.conf)|
-
+|:white_check_mark:Varlens|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/varlens.conf)|
 
 
 
