@@ -224,7 +224,7 @@
 |:white_check_mark:一木记账|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ymjz.conf)|
 |:white_check_mark:Drafts|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/drafts.conf)|
 |:white_check_mark:叮叮水印相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ddsyxj.conf)|
-
+|:white_check_mark:Emote|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/emote.conf)|
 
 
 
