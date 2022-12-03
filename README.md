@@ -226,7 +226,7 @@
 |:white_check_mark:叮叮水印相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ddsyxj.conf)|
 |:white_check_mark:Emote|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/emote.conf)|
 |:white_check_mark:灵敢足迹|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/lgzj.conf)|
-
+|:white_check_mark:7分钟HIIT运动|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/seven.conf)|
 
 
 
