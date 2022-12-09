@@ -232,7 +232,7 @@
 |:white_check_mark:TODO清单|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/todo.conf)|
 |:white_check_mark:淘票票评分|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/tpp.conf)|
 |:white_check_mark:天天豆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ttd.conf)|
-
+|:white_check_mark:咖映|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ky.conf)|
 
 
 
