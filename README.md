@@ -234,7 +234,7 @@
 |:white_check_mark:天天豆|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ttd.conf)|
 |:white_check_mark:咖映|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ky.conf)|
 |:white_check_mark:VCUS|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/vcus.conf)|
-
+|:white_check_mark:傲软PDF编辑|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/arpdfbj.conf)|
 
 
 
