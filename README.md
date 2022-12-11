@@ -236,7 +236,7 @@
 |:white_check_mark:VCUS|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/vcus.conf)|
 |:white_check_mark:傲软PDF编辑|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/arpdfbj.conf)|
 |:white_check_mark:傲软投屏|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/artp.conf)|
-
+|:white_check_mark:幻休|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hx.conf)|
 
 
 
