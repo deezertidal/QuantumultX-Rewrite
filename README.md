@@ -239,7 +239,7 @@
 |:white_check_mark:幻休|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hx.conf)|
 |:white_check_mark:绘影字幕|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hyzm.conf)|
 |:white_check_mark:汇中考|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hzk.conf)|
-
+|:white_check_mark:iScreen|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/iscreen.conf)|
 
 
 ****
