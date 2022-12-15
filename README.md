@@ -241,6 +241,12 @@
 |:white_check_mark:汇中考|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hzk.conf)|
 |:white_check_mark:iScreen|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/iscreen.conf)|
 |:white_check_mark:小组件盒子|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/xzjhz.conf)|
+|:white_check_mark:佐糖|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/zt.conf)|
+
+
+
+
+
 
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
