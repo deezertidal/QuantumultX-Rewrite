@@ -242,7 +242,7 @@
 |:white_check_mark:iScreen|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/iscreen.conf)|
 |:white_check_mark:小组件盒子|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/xzjhz.conf)|
 |:white_check_mark:佐糖|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/zt.conf)|
-
+|:white_check_mark:飞鱼计划|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/fyjh.conf)|
 
 
 
