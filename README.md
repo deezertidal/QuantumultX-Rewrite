@@ -245,7 +245,7 @@
 |:white_check_mark:飞鱼计划|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/fyjh.conf)|
 |:white_check_mark:过期啦|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/gql.conf)|
 |:white_check_mark:乃糖小组件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/nt.conf)|
-
+|:white_check_mark:一书一课|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ysyk.conf)|
 
 
 ****
