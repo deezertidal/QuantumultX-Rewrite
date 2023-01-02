@@ -246,7 +246,7 @@
 |:white_check_mark:过期啦|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/gql.conf)|
 |:white_check_mark:乃糖小组件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/nt.conf)|
 |:white_check_mark:一书一课|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ysyk.conf)|
-
+|:white_check_mark:充电助手|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/cdzs.conf)|
 
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
