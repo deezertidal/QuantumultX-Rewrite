@@ -247,7 +247,11 @@
 |:white_check_mark:乃糖小组件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/nt.conf)|
 |:white_check_mark:一书一课|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ysyk.conf)|
 |:white_check_mark:充电助手|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/cdzs.conf)|
-
+|:white_check_mark:电视家|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/dsj.conf)|
+   
+   
+   
+   
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
 * 除集合类外，脚本插件均署名原作者，如有署名错误，请联系邮箱更正。
