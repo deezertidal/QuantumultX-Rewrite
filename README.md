@@ -250,7 +250,7 @@
 |:white_check_mark:电视家|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/dsj.conf)|
 |:white_check_mark:Endel|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/endel.conf)| 
 |:white_check_mark:格至日记|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/gzrj.conf)|  
-
+|:white_check_mark:高德地图去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/gddt.conf)|  
 
 
 
