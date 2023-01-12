@@ -253,7 +253,7 @@
 |:white_check_mark:高德地图去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/gddt.conf)|  
 |:white_check_mark:好事发生|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hsfs.conf)|  
 |:white_check_mark:简讯|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/jianxun.conf)|
-
+|:white_check_mark:可拍|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/kepai.conf)|
 
 
 
