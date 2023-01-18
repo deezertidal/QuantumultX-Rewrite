@@ -256,7 +256,7 @@
 |:white_check_mark:可拍|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/kepai.conf)|
 |:white_check_mark:Lifeviewer|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/lifeviewer.conf)|
 |:white_check_mark:Relens|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/relens.conf)|
-
+|:white_check_mark:Vivacut|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/vivacut.conf)|
 
 
    
