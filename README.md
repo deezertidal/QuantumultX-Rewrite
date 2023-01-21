@@ -258,7 +258,7 @@
 |:white_check_mark:Relens|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/relens.conf)|
 |:white_check_mark:Vivacut|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/vivacut.conf)|
 |:white_check_mark:Watchout|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/watchout.conf)|
-
+|:white_check_mark:无痕去水印|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/whqsy.conf)|
 
 
 
