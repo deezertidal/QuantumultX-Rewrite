@@ -1,4 +1,4 @@
-//event-interaction https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/media-check.js, tag = 流媒体 - 解锁查询，img-url=checkmark.seal.system, enabled=true
+//event-interaction https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/media-check.js, tag = 流媒体 - 解锁查询,img-url=checkmark.seal.system, enabled=true
 
 const BASE_URL = 'https://www.netflix.com/title/';
 const BASE_URL_YTB = "https://www.youtube.com/premium";
