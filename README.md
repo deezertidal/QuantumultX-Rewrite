@@ -260,8 +260,8 @@
 |:white_check_mark:Watchout|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/watchout.conf)|
 |:white_check_mark:无痕去水印|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/whqsy.conf)|
 |:white_check_mark:一键换脸|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/yjhl.conf)|
-
-
+|:white_check_mark:节点信息查询|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ip-api.js)|
+|:white_check_mark:流媒体解锁查询|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/media-check.js)|
 
 
    
