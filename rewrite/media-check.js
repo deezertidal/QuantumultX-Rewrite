@@ -1,4 +1,4 @@
-//节点信息查询（IP，服务商，国家，时区，经纬度，货币）
+//优化查询准确率
 //event-interaction https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/media-check.js, tag = 流媒体 - 解锁查询,img-url=checkmark.seal.system, enabled=true
 
 const BASE_URL = 'https://www.netflix.com/title/';
