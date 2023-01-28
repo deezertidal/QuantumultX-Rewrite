@@ -1,3 +1,4 @@
+//节点信息查询（IP，服务商，国家，时区，经纬度，货币）
 //geo_location_checker=http://ip-api.com/json/?fields=8450015&lang=zh-CN,https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ip-api.js
 
 if ($response.statusCode != 200) {
