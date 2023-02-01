@@ -263,7 +263,7 @@
 |:white_check_mark:节点信息查询|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ip-api.js)|
 |:white_check_mark:流媒体解锁查询|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/media-check.js)|
 |:white_check_mark:Styleart|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/styleart.conf)|
-
+|:white_check_mark:7动|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/7dong.conf)|
    
    
 ****
