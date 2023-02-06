@@ -264,7 +264,7 @@
 |:white_check_mark:流媒体解锁查询|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/media-check.js)|
 |:white_check_mark:Styleart|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/styleart.conf)|
 |:white_check_mark:7动|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/7dong.conf)|
-   
+|:white_check_mark:海报工厂|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hbgc.conf)|  
    
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
