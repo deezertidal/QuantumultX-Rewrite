@@ -265,7 +265,15 @@
 |:white_check_mark:Styleart|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/styleart.conf)|
 |:white_check_mark:7动|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/7dong.conf)|
 |:white_check_mark:海报工厂|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hbgc.conf)|  
-   
+|:white_check_mark:我的番茄|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/wdfq.conf)|  
+
+
+
+
+
+
+
+
 ****
 * 解锁类插件一般需要登录账号恢复购买，如不生效，请卸载重装。
 * 除集合类外，脚本插件均署名原作者，如有署名错误，请联系邮箱更正。
