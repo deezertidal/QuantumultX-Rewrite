@@ -268,7 +268,7 @@
 |:white_check_mark:我的番茄|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/wdfq.conf)|  
 |:white_check_mark:FoMz|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/fomz.conf)|  
 |:white_check_mark:日杂相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/rzxj.conf)|
-
+|:white_check_mark:古诗词大全|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/gscdq.conf)|
 
 
 
