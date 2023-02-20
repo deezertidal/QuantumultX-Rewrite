@@ -270,7 +270,7 @@
 |:white_check_mark:日杂相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/rzxj.conf)|
 |:white_check_mark:古诗词大全|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/gscdq.conf)|
 |:white_check_mark:Mondly|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/mondly.conf)|
-
+|:white_check_mark:猫头鹰文件|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/mtywj.conf)|
 
 
 
