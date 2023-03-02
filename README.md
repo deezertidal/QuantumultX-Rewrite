@@ -274,7 +274,7 @@
 |:white_check_mark:YouTube去广告|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/youtube.conf)|
 |:white_check_mark:汉堡儿童故事|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/hbetgs.conf)|
 |:white_check_mark:iconKiller|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/iconkiller.conf)|
-
+|:white_check_mark:一寸证件照|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/yczjz.conf)|
 
 
 
