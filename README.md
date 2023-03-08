@@ -276,7 +276,7 @@
 |:white_check_mark:iconKiller|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/iconkiller.conf)|
 |:white_check_mark:一寸证件照|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/yczjz.conf)|
 |:white_check_mark:中华诗词库|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/zhsck.conf)|
-
+|:white_check_mark:字体册|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ztc.conf)|
 
 
 
