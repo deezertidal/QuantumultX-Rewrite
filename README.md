@@ -278,7 +278,7 @@
 |:white_check_mark:中华诗词库|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/zhsck.conf)|
 |:white_check_mark:字体册|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/ztc.conf)|
 |:white_check_mark:配音|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/peiyin.conf)|
-
+|:white_check_mark:AdGuard|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/adguard.conf)|
 
 
 ****
