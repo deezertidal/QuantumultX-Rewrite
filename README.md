@@ -280,7 +280,8 @@
 |:white_check_mark:配音|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/peiyin.conf)|
 |:white_check_mark:AdGuard|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/adguard.conf)|
 |:white_check_mark:阿里云盘签到|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/QuantumultX-Rewrite/master/rewrite/aliyun.conf)|
-
+|:white_check_mark:油价定时提醒|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/oil.js)|
+|:white_check_mark:生活指数定时提醒|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/js/lifeindex.js)|
 
 
 
