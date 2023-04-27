@@ -8,6 +8,7 @@
 
 |:octocat:重写|:link:链接|
 |--|--|
+|:white_check_mark:重写合集|[:link:链接地址](https://ybnet.ga/rewrite/4in1.conf)|
 |:white_check_mark:百度云加速|[:link:链接地址](https://ybnet.ga/rewrite/BaiduCloud.conf)|
 |:white_check_mark:扫描全能王|[:link:链接地址](https://ybnet.ga/rewrite/CamScanner.conf)|
 |:white_check_mark:Emby|[:link:链接地址](https://ybnet.ga/rewrite/Emby.conf)|
