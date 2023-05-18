@@ -1,5 +1,5 @@
 # QuantumultX重写
-
+### 🔔[个人网站](https://ybnet.ga)支持搜索功能
 </details>
 
 <details>
