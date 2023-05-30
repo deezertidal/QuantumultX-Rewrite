@@ -9,6 +9,9 @@
 |:octocat:重写|:link:链接|
 |--|--|
 |:white_check_mark:重写合集|[:link:链接地址](https://ybnet.ga/rewrite/4in1.conf)|
+|:white_check_mark:去广告|[:link:链接地址](https://ybnet.ga/rewrite/startingad.conf)|
+|:white_check_mark:去广告mix|[:link:链接地址](https://ybnet.ga/rewrite/adultra.conf)|
+|:white_check_mark:去广告mix+|[:link:链接地址](https://ybnet.ga/rewrite/adultraplus.conf)|
 |:white_check_mark:百度云加速|[:link:链接地址](https://ybnet.ga/rewrite/BaiduCloud.conf)|
 |:white_check_mark:扫描全能王|[:link:链接地址](https://ybnet.ga/rewrite/CamScanner.conf)|
 |:white_check_mark:Emby|[:link:链接地址](https://ybnet.ga/rewrite/Emby.conf)|
@@ -21,7 +24,6 @@
 |:white_check_mark:spotify会员解锁|[:link:链接地址](https://ybnet.ga/rewrite/SpotifyPremium.conf)|
 |:white_check_mark:SoundCloud Go+|[:link:链接地址](https://ybnet.ga/rewrite/soundcloud.conf)|
 |:white_check_mark:代理链路检测|[:link:链接地址](https://ybnet.ga/rewrite/NodeLinkCheck.conf)|
-|:white_check_mark:广告屏蔽|[:link:链接地址](https://ybnet.ga/rewrite/AdBlock.conf)|
 |:white_check_mark:波点音乐|[:link:链接地址](https://ybnet.ga/rewrite/Bodian.conf)|
 |:white_check_mark:禁用iOS更新|[:link:链接地址](https://ybnet.ga/rewrite/DisableUpdate.conf)|
 |:white_check_mark:奈飞评分|[:link:链接地址](https://ybnet.ga/rewrite/Ratings.conf)|
@@ -110,7 +112,6 @@
 |:white_check_mark:Xmind思维导图|[:link:链接地址](https://ybnet.ga/rewrite/xmind.conf)|
 |:white_check_mark:微信公众号去广告|[:link:链接地址](https://ybnet.ga/rewrite/wechatad.conf)|
 |:white_check_mark:微博去广告|[:link:链接地址](https://ybnet.ga/rewrite/weiboad.conf)|
-|:white_check_mark:APP启动页去广告|[:link:链接地址](https://ybnet.ga/rewrite/startingad.conf)|
 |:white_check_mark:哔哩哔哩去广告|[:link:链接地址](https://ybnet.ga/rewrite/biliad.conf)|
 |:white_check_mark:喜马拉雅去广告|[:link:链接地址](https://ybnet.ga/rewrite/xmlyad.conf)|
 |:white_check_mark:网易蜗牛阅读|[:link:链接地址](https://ybnet.ga/rewrite/wnds.conf)|
