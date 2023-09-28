@@ -1,0 +1,22 @@
+// Quantumult X
+// @rewrite
+^https://graph\.facebook\.com/v14\.0/391548237606650/mobile_sdk_gk url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/FacebookGK.js
+
+// Surge
+// [Script]
+// ^https://graph\.facebook\.com/v14\.0/391548237606650/mobile_sdk_gk url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/FacebookGK.js
+
+var body = $response.body;
+var obj = JSON.parse(body);
+
+if (obj && obj.data && Array.isArray(obj.data)) {
+    var gatekeepers = obj.data[0].gatekeepers;
+    if (gatekeepers && Array.isArray(gatekeepers)) {
+        for (var i = 0; i < gatekeepers.length; i++) {
+            gatekeepers[i].value = true;
+        }
+    }
+    body = JSON.stringify(obj);
+}
+
+$done({ body });
