@@ -76,7 +76,6 @@
 |:white_check_mark:彩云天气SVIP|[:link:链接地址](https://yfamily.vercel.app/rewrite/colorweather.conf)|
 |:white_check_mark:Ellabook VIP|[:link:链接地址](https://yfamily.vercel.app/rewrite/ellabook.conf)|
 |:white_check_mark:Fimo Pro|[:link:链接地址](https://yfamily.vercel.app/rewrite/fimo.conf)|
-|:white_check_mark:FT中文网|[:link:链接地址](https://yfamily.vercel.app/rewrite/ft.conf)|
 |:white_check_mark:i Love PDF解锁|[:link:链接地址](https://yfamily.vercel.app/rewrite/ilovepdf.conf)|
 |:white_check_mark:美图秀秀VIP|[:link:链接地址](https://yfamily.vercel.app/rewrite/meituxx.conf)|
 |:white_check_mark:起伏会员解锁|[:link:链接地址](https://yfamily.vercel.app/rewrite/qifu.conf)|
