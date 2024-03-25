@@ -1,5 +1,6 @@
-# QuantumultX重写
-### 🔔[个人网站](https://whatshub.top)支持搜索功能
+# 🔔[个人网站](https://whatshub.top)
+### QuantumultX重写
+
 </details>
 
 <details>
