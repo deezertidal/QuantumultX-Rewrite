@@ -1,6 +1,8 @@
 # 🔔[个人网站](https://whatshub.top)
-### QuantumultX重写
 
+* #### [QuantumultX重写](https://whatshub.top/quantumultx)
+* #### [QuantumultX配置教程](https://whatshub.top/qxmanual)
+* #### [分流规则](https://whatshub.top/rule)
 </details>
 
 <details>
