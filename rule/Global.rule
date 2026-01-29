@@ -1,4 +1,4 @@
-# 由yfamilys.com自动维护 202601291701
+# 由yfamilys.com自动维护 202601291946
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,aws
@@ -719,6 +719,7 @@ payload:
   - DOMAIN-SUFFIX,2kju.com
   - DOMAIN-SUFFIX,2lib.org
   - DOMAIN-SUFFIX,2lipstube.com
+  - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,2miners.com
   - DOMAIN-SUFFIX,2n15.com
   - DOMAIN-SUFFIX,2nine.net
