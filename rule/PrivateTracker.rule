@@ -14,7 +14,6 @@ payload:
   - DOMAIN,exodus.desync.com
   - DOMAIN,explodie.org
   - DOMAIN,extracker.dahrkael.net
-  - DOMAIN,ibksturm.synology.me
   - DOMAIN,ipv4.rer.lol
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,ipv6.rer.lol
@@ -52,7 +51,6 @@ payload:
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,tr.zukizuki.org
-  - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,tracker-de-2.cutie.dating
   - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker-zhuqiy.xn--1r3au8b.space
@@ -84,8 +82,9 @@ payload:
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.manager.v6.navy
   - DOMAIN,tracker.moeblog.cn
-  - DOMAIN,tracker.moeking.me
   - DOMAIN,tracker.mywaifu.best
+  - DOMAIN,tracker.nekomi.cn
+  - DOMAIN,tracker.novy.vip
   - DOMAIN,tracker.opentorrent.top
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
@@ -102,22 +101,23 @@ payload:
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.therarbg.to
   - DOMAIN,tracker.torrent.eu.org
+  - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.tvunderground.org.ru
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.wepzone.net
   - DOMAIN,tracker.xn--djrq4gl4hvoi.top
-  - DOMAIN,tracker.yume-hatsuyuki.moe
+  - DOMAIN,tracker.yggleak.top
   - DOMAIN,tracker.zhuqiy.com
   - DOMAIN,tracker1.520.jp
-  - DOMAIN,tracker1.myporn.club
   - DOMAIN,tracker2.dler.org
   - DOMAIN,tracker2.itzmx.com
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
   - DOMAIN,uabits.today
   - DOMAIN,udp.tracker.projectk.org
+  - DOMAIN,udp1.torrust-tracker-demo.com
   - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,wepzone.net
   - DOMAIN,www.all4nothin.net
