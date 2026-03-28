@@ -1,4 +1,4 @@
-# 由yfamilys.com自动维护 202603280716
+# 由yfamilys.com自动维护 202603280739
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,aws
@@ -6747,7 +6747,6 @@ payload:
   - DOMAIN-SUFFIX,colorzilla.com
   - DOMAIN-SUFFIX,colsantamaria.com.br
   - DOMAIN-SUFFIX,columbianprogress.com
-  - DOMAIN-SUFFIX,com
   - DOMAIN-SUFFIX,com.com
   - DOMAIN-SUFFIX,comart.com.tw
   - DOMAIN-SUFFIX,combustible.org
@@ -28693,6 +28692,7 @@ payload:
   - DOMAIN-SUFFIX,www-dc1-n1.sparklabs.com
   - DOMAIN-SUFFIX,www-google-analytics.l.google.com
   - DOMAIN-SUFFIX,www-google-com.firelayers.net
+  - DOMAIN-SUFFIX,www.com
   - DOMAIN-SUFFIX,www01.ktzhk.com
   - DOMAIN-SUFFIX,www1.biz
   - DOMAIN-SUFFIX,www1.cbn.com
