@@ -417,7 +417,7 @@
 |:octocat:机场推荐|:link:链接| :pushpin:套餐价格概况
 |--|--|--|
 |:white_check_mark:飞机云|[:link:官网](https://feijicloud.com/auth/register?code=iMgM)|14.99元/50G/月，19.99元/100G/月,29.99元/200G/月，39.99元/350G/月,55.99元/600G/月
-|:white_check_mark:魔戒|[:link:官网](https://47.112.97.173:5000/#/register?code=tq2kydAz)|15元130G不限时；42元420G不限时；69元750G不限时
+|:white_check_mark:魔戒|[:link:官网](https://47.112.97.173:5000/#/register?code=tq2kydAz)|19.9元130G不限时；52元420G不限时；85元750G不限时
 
 <br>
 
