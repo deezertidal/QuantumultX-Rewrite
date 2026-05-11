@@ -7,13 +7,15 @@ payload:
   - DOMAIN,archive.torrentonline.cc
   - DOMAIN,bandito.byterunner.io
   - DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
+  - DOMAIN,bt.okmp3.ru
   - DOMAIN,bt1.archive.org
   - DOMAIN,bt2.archive.org
   - DOMAIN,bvarf.tracker.sh
+  - DOMAIN,cerf.cs.umd.edu
+  - DOMAIN,cn.pcfreetime.com
   - DOMAIN,coeus.torrentonline.cc
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
-  - DOMAIN,explodie.org
   - DOMAIN,http1.torrust-tracker-demo.com
   - DOMAIN,ipv4announce.sktorrent.eu
   - DOMAIN,leet-tracker.moe
@@ -24,6 +26,7 @@ payload:
   - DOMAIN,open.demonii.com
   - DOMAIN,open.ftorrent.com
   - DOMAIN,open.stealth.si
+  - DOMAIN,open.tracker.ink
   - DOMAIN,opentor.org
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,pybittrack.retiolus.net
@@ -33,18 +36,19 @@ payload:
   - DOMAIN,speedtest.iperson.xyz
   - DOMAIN,t.213891.xyz
   - DOMAIN,t.overflow.biz
-  - DOMAIN,torrent.tracker.durukanbal.com
+  - DOMAIN,torrent.bowed.net
   - DOMAIN,torrentclub.online
   - DOMAIN,torrents.tmtime.dev
   - DOMAIN,torrentsmd.com
   - DOMAIN,tr.abiir.top
+  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.highstar.shop
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,tr4ck3r.duckdns.org
+  - DOMAIN,tracker-udp.gbitt.info
   - DOMAIN,tracker.004430.xyz
   - DOMAIN,tracker.1h.is
-  - DOMAIN,tracker.23794.top
   - DOMAIN,tracker.7471.top
   - DOMAIN,tracker.bittor.pw
   - DOMAIN,tracker.bluefrog.pw
@@ -60,41 +64,34 @@ payload:
   - DOMAIN,tracker.flatuslifir.is
   - DOMAIN,tracker.fnix.net
   - DOMAIN,tracker.gcrenwp.top
-  - DOMAIN,tracker.ghostchu-services.top
   - DOMAIN,tracker.gmi.gd
-  - DOMAIN,tracker.hismz.cn
   - DOMAIN,tracker.huadongblower.xyz
-  - DOMAIN,tracker.iperson.xyz
   - DOMAIN,tracker.kuroy.me
-  - DOMAIN,tracker.lenition.de
   - DOMAIN,tracker.manager.v6.navy
+  - DOMAIN,tracker.moeking.me
   - DOMAIN,tracker.mywaifu.best
   - DOMAIN,tracker.nekomi.cn
   - DOMAIN,tracker.nyaa.vc
   - DOMAIN,tracker.opentorrent.top
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
-  - DOMAIN,tracker.playground.ru
   - DOMAIN,tracker.plx.im
   - DOMAIN,tracker.pmman.tech
   - DOMAIN,tracker.qingwapt.org
   - DOMAIN,tracker.qu.ax
   - DOMAIN,tracker.renfei.net
-  - DOMAIN,tracker.samcze.pl
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
   - DOMAIN,tracker.t-1.org
   - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.torrent.eu.org
-  - DOMAIN,tracker.torrust-demo.com
+  - DOMAIN,tracker.torrentclaw.com
   - DOMAIN,tracker.tritan.gg
   - DOMAIN,tracker.tryhackx.org
-  - DOMAIN,tracker.tvunderground.org.ru
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.wildkat.net
   - DOMAIN,tracker.xn--djrq4gl4hvoi.top
   - DOMAIN,tracker.yemekyedim.com
-  - DOMAIN,tracker.yume-hatsuyuki.moe
   - DOMAIN,tracker.zhuqiy.com
   - DOMAIN,tracker1.520.jp
   - DOMAIN,tracker1.itzmx.com
@@ -103,13 +100,14 @@ payload:
   - DOMAIN,tracker3.ctix.cn
   - DOMAIN,tracker3.itzmx.com
   - DOMAIN,tracker4.itzmx.com
-  - DOMAIN,trackthis.cyber.pz.it
+  - DOMAIN,u.peer-exchange.download
   - DOMAIN,uabits.today
+  - DOMAIN,udp.trackarr.org
   - DOMAIN,udp.tracker.projectk.org
   - DOMAIN,udp1.torrust-tracker-demo.com
-  - DOMAIN,utracker.ghostchu-services.top
   - DOMAIN,vito-tracker.duckdns.org
   - DOMAIN,vito-tracker.space
+  - DOMAIN,wepzone.net
   - DOMAIN,whybother.torrentonline.cc
   - DOMAIN,www.nartlof.com
   - DOMAIN,www.wareztorrent.com
