@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,gc.apple.com
   - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud-content.com.cn
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.apple.com
