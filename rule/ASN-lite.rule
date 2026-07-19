@@ -1,4 +1,4 @@
-# 由yfamilys.com自动维护 202607191727
+# 由yfamilys.com自动维护 202607192012
 payload:
   - IP-ASN,24429
   - IP-ASN,4134
@@ -11,8 +11,8 @@ payload:
   - IP-ASN,10111
   - IP-ASN,4808
   - IP-ASN,209650
-  - IP-ASN,139799
   - IP-ASN,4847
+  - IP-ASN,139799
   - IP-ASN,133865
   - IP-ASN,9808
   - IP-ASN,56048
@@ -34,8 +34,8 @@ payload:
   - IP-ASN,4842
   - IP-ASN,213605
   - IP-ASN,140633
-  - IP-ASN,55990
   - IP-ASN,37963
+  - IP-ASN,55990
   - IP-ASN,45090
   - IP-ASN,23724
   - IP-ASN,24490
@@ -87,7 +87,6 @@ payload:
   - IP-ASN,23650
   - IP-ASN,210352
   - IP-ASN,17622
-  - IP-ASN,137758
   - IP-ASN,137735
   - IP-ASN,136237
   - IP-ASN,133219
@@ -111,6 +110,7 @@ payload:
   - IP-ASN,140726
   - IP-ASN,139148
   - IP-ASN,138421
+  - IP-ASN,137758
   - IP-ASN,137746
   - IP-ASN,136180
   - IP-ASN,134773
@@ -136,7 +136,6 @@ payload:
   - IP-ASN,18241
   - IP-ASN,17775
   - IP-ASN,17429
-  - IP-ASN,153376
   - IP-ASN,141425
   - IP-ASN,139721
   - IP-ASN,139080
@@ -202,6 +201,7 @@ payload:
   - IP-ASN,153911
   - IP-ASN,153726
   - IP-ASN,153725
+  - IP-ASN,153376
   - IP-ASN,152711
   - IP-ASN,152631
   - IP-ASN,151313
